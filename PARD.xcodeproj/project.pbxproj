@@ -41,7 +41,6 @@
 		217651592B94779600121AB2 /* Then in Frameworks */ = {isa = PBXBuildFile; productRef = 217651582B94779600121AB2 /* Then */; };
 		2176515B2B947ABE00121AB2 /* +Font.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2176515A2B947ABE00121AB2 /* +Font.swift */; };
 		2196A8FF2C2D48A0004B3494 /* GoogleLoginManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2196A8FE2C2D489F004B3494 /* GoogleLoginManager.swift */; };
-		2196A9012C2D4B9F004B3494 /* APICaller.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2196A9002C2D4B9F004B3494 /* APICaller.swift */; };
 		21A6857C2B9C8967006F6D9E /* AppleLoginManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21A6857B2B9C8967006F6D9E /* AppleLoginManager.swift */; };
 		21A6857E2B9CBFC6006F6D9E /* UILabelExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21A6857D2B9CBFC6006F6D9E /* UILabelExtension.swift */; };
 		90C007C52B95D24C0056D724 /* MainLoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90C007C42B95D24C0056D724 /* MainLoginViewController.swift */; };
@@ -88,7 +87,6 @@
 		2128D7932B9991B6000F573C /* PardTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PardTextField.swift; sourceTree = "<group>"; };
 		2176515A2B947ABE00121AB2 /* +Font.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "+Font.swift"; sourceTree = "<group>"; };
 		2196A8FE2C2D489F004B3494 /* GoogleLoginManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoogleLoginManager.swift; sourceTree = "<group>"; };
-		2196A9002C2D4B9F004B3494 /* APICaller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APICaller.swift; sourceTree = "<group>"; };
 		21A685772B9C84EB006F6D9E /* PARD.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = PARD.entitlements; sourceTree = "<group>"; };
 		21A6857B2B9C8967006F6D9E /* AppleLoginManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppleLoginManager.swift; sourceTree = "<group>"; };
 		21A6857D2B9CBFC6006F6D9E /* UILabelExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UILabelExtension.swift; sourceTree = "<group>"; };
@@ -198,7 +196,7 @@
 		2176515D2B94829400121AB2 /* Sources */ = {
 			isa = PBXGroup;
 			children = (
-				2196A8FD2C2D47EA004B3494 /* API */,
+				2196A8FD2C2D47EA004B3494 /* APICaller */,
 				2123A97B2BA73626009C60BF /* Qr */,
 				0DC5CDFE2B96DB7F007A21E4 /* PopUpModal */,
 				90C007AE2B95D0C30056D724 /* User */,
@@ -222,12 +220,11 @@
 			path = App;
 			sourceTree = "<group>";
 		};
-		2196A8FD2C2D47EA004B3494 /* API */ = {
+		2196A8FD2C2D47EA004B3494 /* APICaller */ = {
 			isa = PBXGroup;
 			children = (
-				2196A9002C2D4B9F004B3494 /* APICaller.swift */,
 			);
-			path = API;
+			path = APICaller;
 			sourceTree = "<group>";
 		};
 		21A685782B9C8930006F6D9E /* Login */ = {
