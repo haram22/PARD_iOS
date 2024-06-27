@@ -40,7 +40,7 @@
 		217651542B94778600121AB2 /* SnapKit in Frameworks */ = {isa = PBXBuildFile; productRef = 217651532B94778600121AB2 /* SnapKit */; };
 		217651592B94779600121AB2 /* Then in Frameworks */ = {isa = PBXBuildFile; productRef = 217651582B94779600121AB2 /* Then */; };
 		2176515B2B947ABE00121AB2 /* +Font.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2176515A2B947ABE00121AB2 /* +Font.swift */; };
-		21A6857A2B9C893E006F6D9E /* AppleLoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21A685792B9C893E006F6D9E /* AppleLoginViewController.swift */; };
+		2196A8FF2C2D48A0004B3494 /* GoogleLoginManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2196A8FE2C2D489F004B3494 /* GoogleLoginManager.swift */; };
 		21A6857C2B9C8967006F6D9E /* AppleLoginManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21A6857B2B9C8967006F6D9E /* AppleLoginManager.swift */; };
 		21A6857E2B9CBFC6006F6D9E /* UILabelExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21A6857D2B9CBFC6006F6D9E /* UILabelExtension.swift */; };
 		90C007C52B95D24C0056D724 /* MainLoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90C007C42B95D24C0056D724 /* MainLoginViewController.swift */; };
@@ -86,8 +86,8 @@
 		2123A97E2BA73640009C60BF /* ReaderViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReaderViewController.swift; sourceTree = "<group>"; };
 		2128D7932B9991B6000F573C /* PardTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PardTextField.swift; sourceTree = "<group>"; };
 		2176515A2B947ABE00121AB2 /* +Font.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "+Font.swift"; sourceTree = "<group>"; };
+		2196A8FE2C2D489F004B3494 /* GoogleLoginManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoogleLoginManager.swift; sourceTree = "<group>"; };
 		21A685772B9C84EB006F6D9E /* PARD.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = PARD.entitlements; sourceTree = "<group>"; };
-		21A685792B9C893E006F6D9E /* AppleLoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppleLoginViewController.swift; sourceTree = "<group>"; };
 		21A6857B2B9C8967006F6D9E /* AppleLoginManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppleLoginManager.swift; sourceTree = "<group>"; };
 		21A6857D2B9CBFC6006F6D9E /* UILabelExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UILabelExtension.swift; sourceTree = "<group>"; };
 		42AEE204550D4434A7D54FD5 /* Pods_PARD.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PARD.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -196,6 +196,7 @@
 		2176515D2B94829400121AB2 /* Sources */ = {
 			isa = PBXGroup;
 			children = (
+				2196A8FD2C2D47EA004B3494 /* APICaller */,
 				2123A97B2BA73626009C60BF /* Qr */,
 				0DC5CDFE2B96DB7F007A21E4 /* PopUpModal */,
 				90C007AE2B95D0C30056D724 /* User */,
@@ -219,19 +220,26 @@
 			path = App;
 			sourceTree = "<group>";
 		};
-		21A685782B9C8930006F6D9E /* AppleLogin */ = {
+		2196A8FD2C2D47EA004B3494 /* APICaller */ = {
 			isa = PBXGroup;
 			children = (
-				21A685792B9C893E006F6D9E /* AppleLoginViewController.swift */,
-				21A6857B2B9C8967006F6D9E /* AppleLoginManager.swift */,
 			);
-			path = AppleLogin;
+			path = APICaller;
+			sourceTree = "<group>";
+		};
+		21A685782B9C8930006F6D9E /* Login */ = {
+			isa = PBXGroup;
+			children = (
+				21A6857B2B9C8967006F6D9E /* AppleLoginManager.swift */,
+				2196A8FE2C2D489F004B3494 /* GoogleLoginManager.swift */,
+			);
+			path = Login;
 			sourceTree = "<group>";
 		};
 		90C007AE2B95D0C30056D724 /* User */ = {
 			isa = PBXGroup;
 			children = (
-				21A685782B9C8930006F6D9E /* AppleLogin */,
+				21A685782B9C8930006F6D9E /* Login */,
 				90C007B62B95D1A10056D724 /* Views */,
 				90C007B72B95D1A80056D724 /* ViewControllers */,
 			);
@@ -559,10 +567,10 @@
 				90C007D62B95D2EA0056D724 /* RankingViewController.swift in Sources */,
 				21A6857C2B9C8967006F6D9E /* AppleLoginManager.swift in Sources */,
 				0D0ADFDB2BAADD1A00094D08 /* PardNotionLinkCollectionViewCell.swift in Sources */,
+				2196A8FF2C2D48A0004B3494 /* GoogleLoginManager.swift in Sources */,
 				2176515B2B947ABE00121AB2 /* +Font.swift in Sources */,
 				0DC5CE012B96DBA4007A21E4 /* PopUpModalViewController.swift in Sources */,
 				0DC5CDFD2B96DB28007A21E4 /* PardAppModel.swift in Sources */,
-				21A6857A2B9C893E006F6D9E /* AppleLoginViewController.swift in Sources */,
 				0DC5CDF72B96DAD9007A21E4 /* HamburgerBarView.swift in Sources */,
 				0DC5CDF52B96DA9B007A21E4 /* MyScoreView.swift in Sources */,
 				0DAFA0E02BA70F3C0092FEB0 /* HamBurgerTableViewCell.swift in Sources */,

@@ -71,7 +71,6 @@ class UserInfoPolicyViewController: UIViewController {
         $0.spacing = 20
         $0.alignment = .leading
     }
-    
 
     private lazy var firstCheckAgreeButton = UIButton().then {
         configureButton(
@@ -132,6 +131,7 @@ class UserInfoPolicyViewController: UIViewController {
             .regular(string: "에 동의하세요.", fontSize: 13, fontColor: UIColor.pard.gray10)
     }
     
+    // 구글로그인 제목 옆 이미지를 위한 함수
     private func configureButton(_ button: UIButton, title: String, image: UIImage?, target: Any?, action: Selector) {
         let intervalSpacing = 8.0
         let halfIntervalSpacing = intervalSpacing / 2
