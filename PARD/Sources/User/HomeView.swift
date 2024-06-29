@@ -97,6 +97,10 @@ class HomeTopView : UIView {
     }
     
     @objc private func tappedQuestionButton() {
+        // MARK: - 서버 연결 시도 후 삭제 예정
+        print("tooltip selected")
+        getData()
+        
         isSelected.toggle()
         let toastBar = TooltipBuilder()
             .setMessage("저는 파드 포인트와 출석 점수를 먹고 자라는 ")

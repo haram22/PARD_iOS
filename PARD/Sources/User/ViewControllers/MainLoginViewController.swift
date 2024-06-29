@@ -7,7 +7,6 @@
 import UIKit
 import PARD_DesignSystem
 import AuthenticationServices
-import GoogleSignIn
 
 class MainLoginViewController: UIViewController {
     
