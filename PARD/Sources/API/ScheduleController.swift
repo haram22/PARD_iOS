@@ -101,5 +101,3 @@ enum ScheduleFetchError: Error {
     case noData
     case decodingError(Error)
 }
-
-

@@ -20,7 +20,7 @@ extension ReaderViewController {
         
         let body: [String: AnyHashable] = [
             "qrUrl": qrUrl,
-            "seminar": "part"
+            "seminar": "1"
         ]
         request.httpBody = try? JSONSerialization.data(withJSONObject: body, options: .fragmentsAllowed)
         
@@ -62,7 +62,7 @@ extension ReaderViewController {
                             }))
                             .show(on: self)
                     }
-                } else {
+                } else if responseString.contains("true"){
                     DispatchQueue.main.async {
                         ModalBuilder()
                             .add(title: "출석 체크")
@@ -70,6 +70,16 @@ extension ReaderViewController {
                             .add(button: .confirm(title: "세미나 입장하기", action: {
                                 self.navigationController?.pushViewController(HomeTabBarViewController(), animated: false)
                                 
+                            }))
+                            .show(on: self)
+                    }
+                } else {
+                    DispatchQueue.main.async {
+                        ModalBuilder()
+                            .add(title: "출석 체크")
+                            .add(content: "등록된 일정이 없습니다.")
+                            .add(button: .confirm(title: "확인", action: {
+                                self.navigationController?.pushViewController(HomeTabBarViewController(), animated: false)
                             }))
                             .show(on: self)
                     }
