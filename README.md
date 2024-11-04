@@ -49,6 +49,15 @@ IT 협업 동아리 파드에서 발생하는 다음과 같은 어려움을 해�
 
 
 ## ⚙️ 개발 환경 및 라이브러리
+![Swift](https://img.shields.io/badge/swift-5.10-orange)
+![Xcode](https://img.shields.io/badge/Xcode-15.3-blue)
+![SnapKit](https://img.shields.io/badge/SnapKit-5.7.1-yellow)
+![Then](https://img.shields.io/badge/Then-3.0.0-blue)
+
+![GoogleSignIn](https://img.shields.io/badge/GoogleSignIn-latest-brightgreen)
+
+![AppAuth](https://img.shields.io/badge/AppAuth-1.4.0-blue)
+
 
 
 ## ✨ 프로젝트 주요 기능 및 페이지
