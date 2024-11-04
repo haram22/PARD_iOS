@@ -53,17 +53,48 @@ IT 협업 동아리 파드에서 발생하는 다음과 같은 어려움을 해�
 
 ## ✨ 프로젝트 주요 기능 및 페이지
 
-1️⃣ 스플래시 화면 및 로그인 화면
+### 1️⃣ 스플래시 화면 및 로그인 화면
 
 <img src="https://github.com/user-attachments/assets/63495b56-e3be-48c9-83b2-6cba6962d712" width="300"/>
 <img src="https://github.com/user-attachments/assets/2a4717cc-0409-416a-9e4f-11009a923359" width="300"/>
 
-<br/>
+<br><br>
 
-
-2️⃣ 이용 약관 동의 페이지
+### 2️⃣ 이용 약관 동의 페이지
 
 <img src="https://github.com/user-attachments/assets/17646e9e-1124-44fd-b303-9fca4913336c" width="300"/>
 <img src="https://github.com/user-attachments/assets/397eaf33-e826-4937-9632-28b27e375ce6" width="300"/>
+
+<br><br>
+
+### 3️⃣ 홈화면 및 툴팁
+
+<img src="https://github.com/user-attachments/assets/d4309d83-b7fb-4061-a5ef-21fb49a60528" width="300"/>
+<img src="https://github.com/user-attachments/assets/c6de667b-98c0-4420-9489-a10410c65825" width="300"/>
+<img src="https://github.com/user-attachments/assets/7c18d9e2-e113-4c90-999c-d47cb9610fe5" width="300"/>
+
+<br><br>
+
+### 4️⃣ PARDNERSHIP 더보기 페이지
+
+
+### 5️⃣ UPCOMMING EVENT 더보기 페이지
+
+<img src="https://github.com/user-attachments/assets/0886cbad-91fc-4e99-8770-69ddd9b25512" width="300"/>
+
+<br><br>
+
+### 6️⃣ 마이 페이지
+
+<img src="https://github.com/user-attachments/assets/13f5808d-f48f-433b-9a38-91d8f209867e" width="300"/>
+
+### 7️⃣ QR 출석 기능
+
+
+### 8️⃣ 로그아웃 및 탈퇴
+
+<img src="https://github.com/user-attachments/assets/81af13d0-cb3a-48f7-ad63-5fb73b2dc523" width="300"/>
+<img src="https://github.com/user-attachments/assets/88de5ceb-68bb-433c-9cdf-6ded647f5f0d" width="300"/>
+
 
 
