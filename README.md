@@ -2,8 +2,10 @@
 <img src="https://github.com/user-attachments/assets/fdca657d-6cec-49c6-be6d-a98070180284" width="300"/>
 
 - 앱스토어 URl : https://apps.apple.com/kr/app/pard/id6466456333
-- 로그인 : 애플로 회원가입을 하면, 게스트 모드로 앱을 사용 할 수 있어요 !
 - 노션 : https://we-pard.notion.site/iOS-7d043d2c79844b9b9609796647451917?pvs=4
+- 코딩 컨벤션 : https://we-pard.notion.site/69a2d277d8704194a417b79ff2f91335?pvs=4
+
+- 로그인 방법 : 애플로 회원가입을 하면, 게스트 모드로 앱을 사용 할 수 있어요 !
 
 <br>
 
@@ -98,6 +100,14 @@ IT 협업 동아리 파드에서 발생하는 다음과 같은 어려움을 해�
 <br><br>
 
 ### 7️⃣ QR 출석 기능
+- 큐알 인식 화면 / 지각 시 화면
+<img src="https://github.com/user-attachments/assets/f9fa3b0d-fb84-4d7b-8b71-bc2d38f0f2bc" width="300"/>
+<img src="https://github.com/user-attachments/assets/608441d8-be85-486e-9171-384056068255" width="300"/>
+
+<br><br>
+
+- 이미 출석 한 경우 화면 / 출석 완료 화면
+<img src="https://github.com/user-attachments/assets/d2e4489d-bd8d-4f10-8fb4-be8d05d9ffa4" width="300"/>
 
 
 <br><br>
