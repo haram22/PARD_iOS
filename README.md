@@ -3,6 +3,7 @@
 
 - 앱스토어 URl : https://apps.apple.com/kr/app/pard/id6466456333
 - 로그인 : 애플로 회원가입을 하면, 게스트 모드로 앱을 사용 할 수 있어요 !
+- 노션 : https://we-pard.notion.site/iOS-7d043d2c79844b9b9609796647451917?pvs=4
 
 <br>
 
@@ -47,18 +48,17 @@ IT 협업 동아리 파드에서 발생하는 다음과 같은 어려움을 해�
 
 ## 😆 Team mates
 
+<br>
 
 ## ⚙️ 개발 환경 및 라이브러리
 ![Swift](https://img.shields.io/badge/swift-5.10-orange)
 ![Xcode](https://img.shields.io/badge/Xcode-15.3-blue)
 ![SnapKit](https://img.shields.io/badge/SnapKit-5.7.1-yellow)
 ![Then](https://img.shields.io/badge/Then-3.0.0-blue)
-
 ![GoogleSignIn](https://img.shields.io/badge/GoogleSignIn-latest-brightgreen)
-
 ![AppAuth](https://img.shields.io/badge/AppAuth-1.4.0-blue)
 
-
+<br>
 
 ## ✨ 프로젝트 주요 기능 및 페이지
 
@@ -70,38 +70,39 @@ IT 협업 동아리 파드에서 발생하는 다음과 같은 어려움을 해�
 <br><br>
 
 ### 2️⃣ 이용 약관 동의 페이지
-
 <img src="https://github.com/user-attachments/assets/17646e9e-1124-44fd-b303-9fca4913336c" width="300"/>
 <img src="https://github.com/user-attachments/assets/397eaf33-e826-4937-9632-28b27e375ce6" width="300"/>
 
 <br><br>
 
 ### 3️⃣ 홈화면 및 툴팁
-
-<img src="https://github.com/user-attachments/assets/d4309d83-b7fb-4061-a5ef-21fb49a60528" width="300"/>
+<img src="https://github.com/user-attachments/assets/e8042d94-f2d2-4342-a788-7e9f15491f52" width="300"/>
 <img src="https://github.com/user-attachments/assets/c6de667b-98c0-4420-9489-a10410c65825" width="300"/>
 <img src="https://github.com/user-attachments/assets/7c18d9e2-e113-4c90-999c-d47cb9610fe5" width="300"/>
 
 <br><br>
 
-### 4️⃣ PARDNERSHIP 더보기 페이지
+### 4️⃣ PARDNERSHIP 더보기 페이지 & 랭킹 페이지
+<img src="https://github.com/user-attachments/assets/c434485b-ed32-4fb1-a522-8b651703c7b6" width="300"/>
 
+<br><br>
 
 ### 5️⃣ UPCOMMING EVENT 더보기 페이지
-
 <img src="https://github.com/user-attachments/assets/0886cbad-91fc-4e99-8770-69ddd9b25512" width="300"/>
 
 <br><br>
 
 ### 6️⃣ 마이 페이지
+<img src="https://github.com/user-attachments/assets/ff771370-4409-404d-a436-241ef7eb2314" width="300"/>
 
-<img src="https://github.com/user-attachments/assets/13f5808d-f48f-433b-9a38-91d8f209867e" width="300"/>
+<br><br>
 
 ### 7️⃣ QR 출석 기능
 
 
-### 8️⃣ 로그아웃 및 탈퇴
+<br><br>
 
+### 8️⃣ 로그아웃 및 탈퇴
 <img src="https://github.com/user-attachments/assets/81af13d0-cb3a-48f7-ad63-5fb73b2dc523" width="300"/>
 <img src="https://github.com/user-attachments/assets/88de5ceb-68bb-433c-9cdf-6ded647f5f0d" width="300"/>
 
