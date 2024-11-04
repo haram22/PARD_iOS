@@ -2,7 +2,7 @@
 <img src="https://github.com/user-attachments/assets/fdca657d-6cec-49c6-be6d-a98070180284" width="300"/>
 
 - 앱스토어 URl : https://apps.apple.com/kr/app/pard/id6466456333
-- 로그인 : 애플로 회원가입을 하면, 게스트 모드로 앱에 진입할 수 있어요 !
+- 로그인 : 애플로 회원가입을 하면, 게스트 모드로 앱을 사용 할 수 있어요 !
 
 <br>
 
@@ -52,4 +52,18 @@ IT 협업 동아리 파드에서 발생하는 다음과 같은 어려움을 해�
 
 
 ## ✨ 프로젝트 주요 기능 및 페이지
+
+1️⃣ 스플래시 화면 및 로그인 화면
+
+<img src="https://github.com/user-attachments/assets/63495b56-e3be-48c9-83b2-6cba6962d712" width="300"/>
+<img src="https://github.com/user-attachments/assets/2a4717cc-0409-416a-9e4f-11009a923359" width="300"/>
+
+<br/>
+
+
+2️⃣ 이용 약관 동의 페이지
+
+<img src="https://github.com/user-attachments/assets/17646e9e-1124-44fd-b303-9fca4913336c" width="300"/>
+<img src="https://github.com/user-attachments/assets/397eaf33-e826-4937-9632-28b27e375ce6" width="300"/>
+
 
