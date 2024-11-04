@@ -113,8 +113,6 @@ IT 협업 동아리 파드에서 발생하는 다음과 같은 어려움을 해�
 <br><br>
 
 ### 8️⃣ 로그아웃 및 탈퇴
-<img src="https://github.com/user-attachments/assets/81af13d0-cb3a-48f7-ad63-5fb73b2dc523" width="300"/>
-<img src="https://github.com/user-attachments/assets/88de5ceb-68bb-433c-9cdf-6ded647f5f0d" width="300"/>
-
-
+<img src="https://github.com/user-attachments/assets/16a97fcd-cebe-48d4-9d1a-c77881615089" width="300"/>
+<img src="https://github.com/user-attachments/assets/c839ab9f-e08f-4f10-8c3e-00a098a6f941" width="300"/>
 
