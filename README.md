@@ -53,7 +53,7 @@ IT 협업 동아리 파드에서 발생하는 다음과 같은 어려움을 해�
 |------|------|------|--------|
 | <img src="https://github.com/user-attachments/assets/5a2eb8d0-08ed-4586-9262-339b4fb82555" width="200"/> | 김하람 | 개발 리더 / iOS 개발<br><br>- 애플로그인 구현<br>- 구글 로그인 구현<br>- QR 기능 구현<br>- 서버 통신 구현<br>- 디자인시스템 SPM 개발<br>- QA진행 및 UI 수정 | [haram22](https://github.com/haram22) |
 | <img src="https://github.com/user-attachments/assets/b2ed0f5e-a308-482d-83a0-73249812de1d" width="200"/> | 진세진 | iOS 개발<br><br>- 팝업 모달 구현<br>- 홈화면 UI 개발<br>- 토스트바 구현<br>- 햄버거바 구현<br>- 이용약관 UI개발<br>- 내 일정 페이지 UI 개발| [jinsejin](https://github.com/jinsejin) |
-| <img src="https://github.com/user-attachments/assets/c0760559-cb5e-4370-b7b2-a6f60448ae7b" width="200"/> | 김민섭 | iOS 개발<br><br>- 전체 랭킹페이지 개발<br>- 마이페이지 개발<br>- 툴팁 구현<br>- 내 점수 페이지 개발<br>- 툴팁 구현<br>- UI 수정 및 디테일 반영 | [mingseobi](https://github.com/mingseobi) |
+| <img src="https://github.com/user-attachments/assets/c0760559-cb5e-4370-b7b2-a6f60448ae7b" width="200"/> | 김민섭 | iOS 개발<br><br>- 전체 랭킹페이지 개발<br>- 마이페이지 개발<br>- 툴팁 구현<br>- 내 점수 페이지 개발<br>- UI 수정 및 디테일 반영 | [mingseobi](https://github.com/mingseobi) |
 
 <br>
 
