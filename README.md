@@ -78,13 +78,15 @@ IT 협업 동아리 파드에서 발생하는 다음과 같은 어려움을 해�
 <br><br>
 
 ### 3️⃣ 홈화면 및 툴팁
-<img src="https://github.com/user-attachments/assets/e8042d94-f2d2-4342-a788-7e9f15491f52" width="300"/>
-<img src="https://github.com/user-attachments/assets/c6de667b-98c0-4420-9489-a10410c65825" width="300"/>
-<img src="https://github.com/user-attachments/assets/7c18d9e2-e113-4c90-999c-d47cb9610fe5" width="300"/>
+<img src="https://github.com/user-attachments/assets/8b21b1c5-bcab-414a-8a2a-e928d34842b1" width="300"/>
+<img src="https://github.com/user-attachments/assets/4734ab39-c12c-435b-ba6b-1fba093c2dda" width="300"/>
+<img src="https://github.com/user-attachments/assets/24a00917-b2f5-46c8-b137-ba68385153b9" width="300"/>
 
 <br><br>
 
-### 4️⃣ PARDNERSHIP 더보기 페이지 & 랭킹 페이지
+### 4️⃣ PARDNERSHIP 더보기 페이지 & 전체 랭킹 확인하기 페이지
+<img src="https://github.com/user-attachments/assets/86496d87-3560-475e-bb36-8a884d24d7e3" width="300"/>
+<img src="https://github.com/user-attachments/assets/752b705c-dbd2-4b9b-bfd6-05e273dedb2a" width="300"/>
 <img src="https://github.com/user-attachments/assets/c434485b-ed32-4fb1-a522-8b651703c7b6" width="300"/>
 
 <br><br>
