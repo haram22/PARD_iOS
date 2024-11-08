@@ -113,8 +113,9 @@ IT 협업 동아리 파드에서 발생하는 다음과 같은 어려움을 해�
 
 <br><br>
 
-- 이미 출석 한 경우 화면 / 출석 완료 화면
+- 이미 출석 한 경우 화면 / 출석 성공 화면
 <img src="https://github.com/user-attachments/assets/d2e4489d-bd8d-4f10-8fb4-be8d05d9ffa4" width="300"/>
+<img src="https://github.com/user-attachments/assets/4ac370e1-84f5-429e-adbd-a77f86501ba2" width="300"/>
 
 
 <br><br>
